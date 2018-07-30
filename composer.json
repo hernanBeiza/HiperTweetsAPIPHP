@@ -1,0 +1,30 @@
+{
+    "name": "hernanbeiza/hiper-tweets-apiphp",
+    "description": "API en PHP para obtener tweets",
+    "authors": [
+        {
+            "name": "Hernán Beiza",
+            "email": "hernan@hiperactivo.cl"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.8",
+	    "slim/php-view": "^2.0",
+        "monolog/monolog": "^1.23"
+    },
+
+    "require-dev": {
+        "phpunit/phpunit": "~4.6"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "HiperTweetAPI\\" : "src"
+        }
+    },
+
+	"scripts": {
+        "start": "php -d max_execution_time=0 -S localhost:3000 -t public",
+        "test": "./vendor/bin/phpunit"
+	}
+}

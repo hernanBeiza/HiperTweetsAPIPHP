@@ -1,0 +1,613 @@
+[2018-07-29 18:20:26] tweetlanding-api.INFO: get /  [] {"uid":"57920e7"}
+[2018-07-29 18:20:26] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:__construct(); [] {"uid":"57920e7"}
+[2018-07-29 18:20:26] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"57920e7"}
+[2018-07-29 18:20:26] tweetlanding-api.INFO: HiperTweetAPI\DAOS\IndexDAO:__construct(); [] {"uid":"57920e7"}
+[2018-07-29 18:20:26] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:__destruct(); [] {"uid":"57920e7"}
+[2018-07-29 18:20:26] tweetlanding-api.INFO: HiperTweetAPI\DAOS\IndexDAO:__destruct(); [] {"uid":"57920e7"}
+[2018-07-29 18:20:48] tweetlanding-api.INFO: get /  [] {"uid":"378f1be"}
+[2018-07-29 18:20:48] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"378f1be"}
+[2018-07-29 18:20:48] tweetlanding-api.INFO: HiperTweetAPI\DAOS\IndexDAO:__construct(); [] {"uid":"378f1be"}
+[2018-07-29 18:20:48] tweetlanding-api.INFO: HiperTweetAPI\DAOS\IndexDAO:__destruct(); [] {"uid":"378f1be"}
+[2018-07-29 18:20:57] tweetlanding-api.INFO: get /  [] {"uid":"ca634aa"}
+[2018-07-29 18:20:57] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"ca634aa"}
+[2018-07-29 18:20:57] tweetlanding-api.INFO: HiperTweetAPI\DAOS\IndexDAO:__construct(); [] {"uid":"ca634aa"}
+[2018-07-29 18:20:57] tweetlanding-api.INFO: HiperTweetAPI\DAOS\IndexDAO:__destruct(); [] {"uid":"ca634aa"}
+[2018-07-29 18:21:25] tweetlanding-api.INFO: get /  [] {"uid":"16dec58"}
+[2018-07-29 18:21:25] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"16dec58"}
+[2018-07-29 18:21:52] tweetlanding-api.INFO: get /  [] {"uid":"5a24d71"}
+[2018-07-29 18:21:52] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"5a24d71"}
+[2018-07-29 18:22:15] tweetlanding-api.INFO: get /  [] {"uid":"206989f"}
+[2018-07-29 18:22:15] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"206989f"}
+[2018-07-29 18:22:42] tweetlanding-api.INFO: get /  [] {"uid":"aac8d89"}
+[2018-07-29 18:22:42] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"aac8d89"}
+[2018-07-29 18:23:59] tweetlanding-api.INFO: get /  [] {"uid":"2975765"}
+[2018-07-29 18:23:59] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"2975765"}
+[2018-07-29 18:23:59] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"2975765"}
+[2018-07-29 18:26:55] tweetlanding-api.INFO: get /  [] {"uid":"95f71da"}
+[2018-07-29 18:26:55] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"95f71da"}
+[2018-07-29 18:26:55] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"95f71da"}
+[2018-07-29 18:26:56] tweetlanding-api.INFO: get /  [] {"uid":"0301d57"}
+[2018-07-29 18:26:56] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"0301d57"}
+[2018-07-29 18:26:56] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"0301d57"}
+[2018-07-29 18:27:12] tweetlanding-api.INFO: get /  [] {"uid":"5475c9b"}
+[2018-07-29 18:27:12] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"5475c9b"}
+[2018-07-29 18:27:12] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"5475c9b"}
+[2018-07-29 18:31:47] tweetlanding-api.INFO: get /  [] {"uid":"6950173"}
+[2018-07-29 18:31:47] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"6950173"}
+[2018-07-29 18:31:47] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"6950173"}
+[2018-07-29 18:33:47] tweetlanding-api.INFO: get /  [] {"uid":"47a1b7e"}
+[2018-07-29 18:33:47] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"47a1b7e"}
+[2018-07-29 18:33:47] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"47a1b7e"}
+[2018-07-29 18:35:57] tweetlanding-api.INFO: get /  [] {"uid":"f8c6ecd"}
+[2018-07-29 18:35:57] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"f8c6ecd"}
+[2018-07-29 18:35:57] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"f8c6ecd"}
+[2018-07-29 18:35:57] tweetlanding-api.INFO: HTTP_CACHE_CONTROL:Array [] {"uid":"f8c6ecd"}
+[2018-07-29 18:35:57] tweetlanding-api.INFO: HTTP_POSTMAN_TOKEN:Array [] {"uid":"f8c6ecd"}
+[2018-07-29 18:35:57] tweetlanding-api.INFO: HTTP_USER_AGENT:Array [] {"uid":"f8c6ecd"}
+[2018-07-29 18:35:57] tweetlanding-api.INFO: HTTP_ACCEPT:Array [] {"uid":"f8c6ecd"}
+[2018-07-29 18:35:57] tweetlanding-api.INFO: HTTP_HOST:Array [] {"uid":"f8c6ecd"}
+[2018-07-29 18:35:57] tweetlanding-api.INFO: HTTP_COOKIE:Array [] {"uid":"f8c6ecd"}
+[2018-07-29 18:35:57] tweetlanding-api.INFO: HTTP_ACCEPT_ENCODING:Array [] {"uid":"f8c6ecd"}
+[2018-07-29 18:35:57] tweetlanding-api.INFO: HTTP_CONNECTION:Array [] {"uid":"f8c6ecd"}
+[2018-07-29 18:38:38] tweetlanding-api.INFO: get /  [] {"uid":"e852659"}
+[2018-07-29 18:38:38] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"e852659"}
+[2018-07-29 18:38:38] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"e852659"}
+[2018-07-29 18:38:39] tweetlanding-api.INFO:  [] {"uid":"e852659"}
+[2018-07-29 18:38:53] tweetlanding-api.INFO: get /  [] {"uid":"decaae8"}
+[2018-07-29 18:38:53] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"decaae8"}
+[2018-07-29 18:38:53] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"decaae8"}
+[2018-07-29 18:38:53] tweetlanding-api.INFO:  [] {"uid":"decaae8"}
+[2018-07-29 18:39:27] tweetlanding-api.INFO: get /  [] {"uid":"5667b13"}
+[2018-07-29 18:39:27] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"5667b13"}
+[2018-07-29 18:39:27] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"5667b13"}
+[2018-07-29 18:39:27] tweetlanding-api.INFO:  [] {"uid":"5667b13"}
+[2018-07-29 18:39:59] tweetlanding-api.INFO: get /  [] {"uid":"710ed03"}
+[2018-07-29 18:39:59] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"710ed03"}
+[2018-07-29 18:39:59] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"710ed03"}
+[2018-07-29 18:39:59] tweetlanding-api.INFO:  [] {"uid":"710ed03"}
+[2018-07-29 18:39:59] tweetlanding-api.INFO:  [] {"uid":"710ed03"}
+[2018-07-29 18:40:27] tweetlanding-api.INFO: get /  [] {"uid":"8497fb0"}
+[2018-07-29 18:40:27] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"8497fb0"}
+[2018-07-29 18:40:27] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"8497fb0"}
+[2018-07-29 18:40:27] tweetlanding-api.INFO: Resource id #84 [] {"uid":"8497fb0"}
+[2018-07-29 18:40:27] tweetlanding-api.INFO:  [] {"uid":"8497fb0"}
+[2018-07-29 18:40:27] tweetlanding-api.INFO:  [] {"uid":"8497fb0"}
+[2018-07-29 18:41:26] tweetlanding-api.INFO: get /  [] {"uid":"6d8afdd"}
+[2018-07-29 18:41:26] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"6d8afdd"}
+[2018-07-29 18:41:26] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"6d8afdd"}
+[2018-07-29 18:41:27] tweetlanding-api.INFO:  [] {"uid":"6d8afdd"}
+[2018-07-29 18:42:56] tweetlanding-api.INFO: get /  [] {"uid":"fdd76bd"}
+[2018-07-29 18:42:56] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"fdd76bd"}
+[2018-07-29 18:42:56] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"fdd76bd"}
+[2018-07-29 18:42:57] tweetlanding-api.INFO:  [] {"uid":"fdd76bd"}
+[2018-07-29 18:42:57] tweetlanding-api.INFO:  [] {"uid":"fdd76bd"}
+[2018-07-29 18:43:05] tweetlanding-api.INFO: get /  [] {"uid":"410abdf"}
+[2018-07-29 18:43:05] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"410abdf"}
+[2018-07-29 18:43:05] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"410abdf"}
+[2018-07-29 18:43:05] tweetlanding-api.INFO:  [] {"uid":"410abdf"}
+[2018-07-29 18:43:05] tweetlanding-api.INFO:  [] {"uid":"410abdf"}
+[2018-07-29 18:44:50] tweetlanding-api.INFO: get /  [] {"uid":"eaee8d0"}
+[2018-07-29 18:44:50] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"eaee8d0"}
+[2018-07-29 18:44:50] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"eaee8d0"}
+[2018-07-29 18:44:50] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"eaee8d0"}
+[2018-07-29 18:44:51] tweetlanding-api.INFO:  [] {"uid":"eaee8d0"}
+[2018-07-29 18:44:51] tweetlanding-api.INFO:  [] {"uid":"eaee8d0"}
+[2018-07-29 18:46:08] tweetlanding-api.INFO: get /  [] {"uid":"1b8aa1b"}
+[2018-07-29 18:46:08] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"1b8aa1b"}
+[2018-07-29 18:46:08] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"1b8aa1b"}
+[2018-07-29 18:46:08] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"1b8aa1b"}
+[2018-07-29 18:46:09] tweetlanding-api.INFO:  [] {"uid":"1b8aa1b"}
+[2018-07-29 18:46:09] tweetlanding-api.INFO:  [] {"uid":"1b8aa1b"}
+[2018-07-29 18:47:10] tweetlanding-api.INFO: get /  [] {"uid":"252f24f"}
+[2018-07-29 18:47:10] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"252f24f"}
+[2018-07-29 18:47:10] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"252f24f"}
+[2018-07-29 18:47:10] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"252f24f"}
+[2018-07-29 18:47:10] tweetlanding-api.INFO:  [] {"uid":"252f24f"}
+[2018-07-29 18:49:52] tweetlanding-api.INFO: get /  [] {"uid":"c9241b0"}
+[2018-07-29 18:49:52] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"c9241b0"}
+[2018-07-29 18:49:52] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"c9241b0"}
+[2018-07-29 18:49:52] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"c9241b0"}
+[2018-07-29 18:49:52] tweetlanding-api.INFO:  [] {"uid":"c9241b0"}
+[2018-07-29 18:51:37] tweetlanding-api.INFO: get /  [] {"uid":"3c66894"}
+[2018-07-29 18:51:37] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"3c66894"}
+[2018-07-29 18:51:37] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"3c66894"}
+[2018-07-29 18:51:37] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"3c66894"}
+[2018-07-29 18:51:37] tweetlanding-api.INFO:  [] {"uid":"3c66894"}
+[2018-07-29 18:51:37] tweetlanding-api.INFO: No URL set! [] {"uid":"3c66894"}
+[2018-07-29 18:51:37] tweetlanding-api.INFO:  [] {"uid":"3c66894"}
+[2018-07-29 18:51:57] tweetlanding-api.INFO: get /  [] {"uid":"556faac"}
+[2018-07-29 18:51:57] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"556faac"}
+[2018-07-29 18:51:57] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"556faac"}
+[2018-07-29 18:51:57] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"556faac"}
+[2018-07-29 18:51:58] tweetlanding-api.INFO: {"errors":[{"code":99,"message":"Unable to verify your credentials","label":"authenticity_token_error"}]} [] {"uid":"556faac"}
+[2018-07-29 18:52:44] tweetlanding-api.INFO: get /  [] {"uid":"6c6f910"}
+[2018-07-29 18:52:44] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"6c6f910"}
+[2018-07-29 18:52:44] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"6c6f910"}
+[2018-07-29 18:52:44] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"6c6f910"}
+[2018-07-29 18:52:44] tweetlanding-api.INFO: {"errors":[{"code":99,"message":"Unable to verify your credentials","label":"authenticity_token_error"}]} [] {"uid":"6c6f910"}
+[2018-07-29 18:53:45] tweetlanding-api.INFO: get /  [] {"uid":"c74e27f"}
+[2018-07-29 18:53:45] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"c74e27f"}
+[2018-07-29 18:53:45] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"c74e27f"}
+[2018-07-29 18:53:45] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"c74e27f"}
+[2018-07-29 18:53:58] tweetlanding-api.INFO: get /  [] {"uid":"6b06ae0"}
+[2018-07-29 18:53:58] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"6b06ae0"}
+[2018-07-29 18:53:58] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"6b06ae0"}
+[2018-07-29 18:53:58] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"6b06ae0"}
+[2018-07-29 18:53:59] tweetlanding-api.INFO: {"errors":[{"code":99,"message":"Unable to verify your credentials","label":"authenticity_token_error"}]} [] {"uid":"6b06ae0"}
+[2018-07-29 18:55:11] tweetlanding-api.INFO: get /  [] {"uid":"91bab73"}
+[2018-07-29 18:55:11] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"91bab73"}
+[2018-07-29 18:55:11] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"91bab73"}
+[2018-07-29 18:55:11] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"91bab73"}
+[2018-07-29 18:55:11] tweetlanding-api.INFO: {"errors":[{"code":99,"message":"Unable to verify your credentials","label":"authenticity_token_error"}]} [] {"uid":"91bab73"}
+[2018-07-29 18:55:45] tweetlanding-api.INFO: get /  [] {"uid":"41cda71"}
+[2018-07-29 18:55:45] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"41cda71"}
+[2018-07-29 18:55:45] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"41cda71"}
+[2018-07-29 18:55:45] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"41cda71"}
+[2018-07-29 18:55:46] tweetlanding-api.INFO: {"errors":[{"code":99,"message":"Unable to verify your credentials","label":"authenticity_token_error"}]} [] {"uid":"41cda71"}
+[2018-07-29 18:56:11] tweetlanding-api.INFO: get /  [] {"uid":"3bb4b88"}
+[2018-07-29 18:56:11] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"3bb4b88"}
+[2018-07-29 18:56:11] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"3bb4b88"}
+[2018-07-29 18:56:11] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"3bb4b88"}
+[2018-07-29 18:56:12] tweetlanding-api.INFO: {"errors":[{"code":99,"message":"Unable to verify your credentials","label":"authenticity_token_error"}]} [] {"uid":"3bb4b88"}
+[2018-07-29 18:56:12] tweetlanding-api.INFO: "{\"errors\":[{\"code\":99,\"message\":\"Unable to verify your credentials\",\"label\":\"authenticity_token_error\"}]}" [] {"uid":"3bb4b88"}
+[2018-07-29 18:56:12] tweetlanding-api.INFO:  [] {"uid":"3bb4b88"}
+[2018-07-29 18:56:36] tweetlanding-api.INFO: get /  [] {"uid":"478cd8a"}
+[2018-07-29 18:56:36] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"478cd8a"}
+[2018-07-29 18:56:36] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"478cd8a"}
+[2018-07-29 18:56:36] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"478cd8a"}
+[2018-07-29 18:56:36] tweetlanding-api.INFO: {"errors":[{"code":99,"message":"Unable to verify your credentials","label":"authenticity_token_error"}]} [] {"uid":"478cd8a"}
+[2018-07-29 18:58:32] tweetlanding-api.INFO: get /  [] {"uid":"3b7881b"}
+[2018-07-29 18:58:32] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"3b7881b"}
+[2018-07-29 18:58:32] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"3b7881b"}
+[2018-07-29 18:58:32] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"3b7881b"}
+[2018-07-29 18:58:33] tweetlanding-api.INFO: {"errors":[{"code":99,"message":"Unable to verify your credentials","label":"authenticity_token_error"}]} [] {"uid":"3b7881b"}
+[2018-07-29 18:58:33] tweetlanding-api.INFO:  [] {"uid":"3b7881b"}
+[2018-07-29 18:58:33] tweetlanding-api.INFO:  [] {"uid":"3b7881b"}
+[2018-07-29 18:59:38] tweetlanding-api.INFO: get /  [] {"uid":"2c135e4"}
+[2018-07-29 18:59:38] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"2c135e4"}
+[2018-07-29 18:59:38] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"2c135e4"}
+[2018-07-29 18:59:38] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"2c135e4"}
+[2018-07-29 18:59:38] tweetlanding-api.INFO: {"errors":[{"code":99,"message":"Unable to verify your credentials","label":"authenticity_token_error"}]} [] {"uid":"2c135e4"}
+[2018-07-29 18:59:38] tweetlanding-api.INFO: Unable to verify your credentials [] {"uid":"2c135e4"}
+[2018-07-29 18:59:38] tweetlanding-api.INFO:  [] {"uid":"2c135e4"}
+[2018-07-29 19:00:23] tweetlanding-api.INFO: get /  [] {"uid":"41a3658"}
+[2018-07-29 19:00:23] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"41a3658"}
+[2018-07-29 19:00:23] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"41a3658"}
+[2018-07-29 19:00:23] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"41a3658"}
+[2018-07-29 19:00:24] tweetlanding-api.INFO: {"errors":[{"code":99,"message":"Unable to verify your credentials","label":"authenticity_token_error"}]} [] {"uid":"41a3658"}
+[2018-07-29 19:00:24] tweetlanding-api.INFO: 99 [] {"uid":"41a3658"}
+[2018-07-29 19:00:24] tweetlanding-api.INFO: Unable to verify your credentials [] {"uid":"41a3658"}
+[2018-07-29 19:02:00] tweetlanding-api.INFO: get /  [] {"uid":"8718888"}
+[2018-07-29 19:02:00] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"8718888"}
+[2018-07-29 19:02:00] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"8718888"}
+[2018-07-29 19:02:00] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"8718888"}
+[2018-07-29 19:02:00] tweetlanding-api.INFO: {"errors":[{"code":99,"message":"Unable to verify your credentials","label":"authenticity_token_error"}]} [] {"uid":"8718888"}
+[2018-07-29 19:02:00] tweetlanding-api.INFO: 99 [] {"uid":"8718888"}
+[2018-07-29 19:02:00] tweetlanding-api.INFO: Unable to verify your credentials [] {"uid":"8718888"}
+[2018-07-29 19:02:54] tweetlanding-api.INFO: get /  [] {"uid":"3d6f381"}
+[2018-07-29 19:02:54] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"3d6f381"}
+[2018-07-29 19:02:54] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"3d6f381"}
+[2018-07-29 19:02:54] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"3d6f381"}
+[2018-07-29 19:02:55] tweetlanding-api.INFO: {"errors":[{"code":99,"message":"Unable to verify your credentials","label":"authenticity_token_error"}]} [] {"uid":"3d6f381"}
+[2018-07-29 19:02:55] tweetlanding-api.INFO: 99 [] {"uid":"3d6f381"}
+[2018-07-29 19:02:55] tweetlanding-api.INFO: Unable to verify your credentials [] {"uid":"3d6f381"}
+[2018-07-29 19:03:43] tweetlanding-api.INFO: get /  [] {"uid":"fbfb59f"}
+[2018-07-29 19:03:43] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"fbfb59f"}
+[2018-07-29 19:03:43] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"fbfb59f"}
+[2018-07-29 19:03:43] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"fbfb59f"}
+[2018-07-29 19:03:43] tweetlanding-api.INFO: {"errors":[{"code":99,"message":"Unable to verify your credentials","label":"authenticity_token_error"}]} [] {"uid":"fbfb59f"}
+[2018-07-29 19:03:43] tweetlanding-api.INFO: 99 [] {"uid":"fbfb59f"}
+[2018-07-29 19:03:43] tweetlanding-api.INFO: Unable to verify your credentials [] {"uid":"fbfb59f"}
+[2018-07-29 19:04:47] tweetlanding-api.INFO: get /  [] {"uid":"6f0c0cb"}
+[2018-07-29 19:04:47] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"6f0c0cb"}
+[2018-07-29 19:04:47] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"6f0c0cb"}
+[2018-07-29 19:04:47] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"6f0c0cb"}
+[2018-07-29 19:04:48] tweetlanding-api.INFO: {"errors":[{"code":99,"message":"Unable to verify your credentials","label":"authenticity_token_error"}]} [] {"uid":"6f0c0cb"}
+[2018-07-29 19:04:48] tweetlanding-api.INFO: 99 [] {"uid":"6f0c0cb"}
+[2018-07-29 19:04:48] tweetlanding-api.INFO: Unable to verify your credentials [] {"uid":"6f0c0cb"}
+[2018-07-29 19:05:43] tweetlanding-api.INFO: get /  [] {"uid":"6f41721"}
+[2018-07-29 19:05:43] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"6f41721"}
+[2018-07-29 19:05:43] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"6f41721"}
+[2018-07-29 19:05:43] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"6f41721"}
+[2018-07-29 19:05:44] tweetlanding-api.INFO: {"errors":[{"code":99,"message":"Unable to verify your credentials","label":"authenticity_token_error"}]} [] {"uid":"6f41721"}
+[2018-07-29 19:05:44] tweetlanding-api.INFO: 99 [] {"uid":"6f41721"}
+[2018-07-29 19:05:44] tweetlanding-api.INFO: Unable to verify your credentials [] {"uid":"6f41721"}
+[2018-07-29 19:06:18] tweetlanding-api.INFO: get /  [] {"uid":"e625604"}
+[2018-07-29 19:06:18] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"e625604"}
+[2018-07-29 19:06:18] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"e625604"}
+[2018-07-29 19:06:18] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"e625604"}
+[2018-07-29 19:06:19] tweetlanding-api.INFO: {"errors":[{"code":99,"message":"Unable to verify your credentials","label":"authenticity_token_error"}]} [] {"uid":"e625604"}
+[2018-07-29 19:06:19] tweetlanding-api.INFO: 99 [] {"uid":"e625604"}
+[2018-07-29 19:06:19] tweetlanding-api.INFO: Unable to verify your credentials [] {"uid":"e625604"}
+[2018-07-29 19:06:55] tweetlanding-api.INFO: get /  [] {"uid":"471f098"}
+[2018-07-29 19:06:55] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"471f098"}
+[2018-07-29 19:06:55] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"471f098"}
+[2018-07-29 19:06:55] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"471f098"}
+[2018-07-29 19:06:56] tweetlanding-api.INFO: {"errors":[{"code":99,"message":"Unable to verify your credentials","label":"authenticity_token_error"}]} [] {"uid":"471f098"}
+[2018-07-29 19:06:56] tweetlanding-api.INFO: 99 [] {"uid":"471f098"}
+[2018-07-29 19:06:56] tweetlanding-api.INFO: Unable to verify your credentials [] {"uid":"471f098"}
+[2018-07-29 19:07:10] tweetlanding-api.INFO: get /  [] {"uid":"0e8cd2a"}
+[2018-07-29 19:07:10] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"0e8cd2a"}
+[2018-07-29 19:07:10] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"0e8cd2a"}
+[2018-07-29 19:07:10] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"0e8cd2a"}
+[2018-07-29 19:07:10] tweetlanding-api.INFO: {"errors":[{"code":99,"message":"Unable to verify your credentials","label":"authenticity_token_error"}]} [] {"uid":"0e8cd2a"}
+[2018-07-29 19:07:10] tweetlanding-api.INFO: 99 [] {"uid":"0e8cd2a"}
+[2018-07-29 19:07:10] tweetlanding-api.INFO: Unable to verify your credentials [] {"uid":"0e8cd2a"}
+[2018-07-29 19:07:10] tweetlanding-api.INFO: Array [] {"uid":"0e8cd2a"}
+[2018-07-29 19:07:18] tweetlanding-api.INFO: get /  [] {"uid":"b65db9d"}
+[2018-07-29 19:07:18] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"b65db9d"}
+[2018-07-29 19:07:18] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"b65db9d"}
+[2018-07-29 19:07:18] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"b65db9d"}
+[2018-07-29 19:07:18] tweetlanding-api.INFO: {"errors":[{"code":99,"message":"Unable to verify your credentials","label":"authenticity_token_error"}]} [] {"uid":"b65db9d"}
+[2018-07-29 19:07:18] tweetlanding-api.INFO: 99 [] {"uid":"b65db9d"}
+[2018-07-29 19:07:18] tweetlanding-api.INFO: Unable to verify your credentials [] {"uid":"b65db9d"}
+[2018-07-29 19:07:18] tweetlanding-api.INFO: Unable to verify your credentials [] {"uid":"b65db9d"}
+[2018-07-29 19:08:41] tweetlanding-api.INFO: get /  [] {"uid":"bc4d1e5"}
+[2018-07-29 19:08:41] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"bc4d1e5"}
+[2018-07-29 19:08:41] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"bc4d1e5"}
+[2018-07-29 19:08:41] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"bc4d1e5"}
+[2018-07-29 19:08:43] tweetlanding-api.INFO: {"errors":[{"code":99,"message":"Unable to verify your credentials","label":"authenticity_token_error"}]} [] {"uid":"bc4d1e5"}
+[2018-07-29 19:08:43] tweetlanding-api.INFO: 99 [] {"uid":"bc4d1e5"}
+[2018-07-29 19:08:43] tweetlanding-api.INFO: Unable to verify your credentials [] {"uid":"bc4d1e5"}
+[2018-07-29 19:09:36] tweetlanding-api.INFO: get /  [] {"uid":"bf3d0c8"}
+[2018-07-29 19:09:36] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"bf3d0c8"}
+[2018-07-29 19:09:36] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"bf3d0c8"}
+[2018-07-29 19:09:36] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"bf3d0c8"}
+[2018-07-29 19:09:36] tweetlanding-api.INFO: {"errors":[{"code":99,"message":"Unable to verify your credentials","label":"authenticity_token_error"}]} [] {"uid":"bf3d0c8"}
+[2018-07-29 19:09:36] tweetlanding-api.INFO: 99 [] {"uid":"bf3d0c8"}
+[2018-07-29 19:09:36] tweetlanding-api.INFO: Unable to verify your credentials [] {"uid":"bf3d0c8"}
+[2018-07-29 19:09:36] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"bf3d0c8"}
+[2018-07-29 19:09:36] tweetlanding-api.INFO: Array [] {"uid":"bf3d0c8"}
+[2018-07-29 19:13:41] tweetlanding-api.INFO: get /  [] {"uid":"a500912"}
+[2018-07-29 19:13:41] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"a500912"}
+[2018-07-29 19:13:41] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"a500912"}
+[2018-07-29 19:13:41] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"a500912"}
+[2018-07-29 19:13:42] tweetlanding-api.INFO: {"errors":[{"code":99,"message":"Unable to verify your credentials","label":"authenticity_token_error"}]} [] {"uid":"a500912"}
+[2018-07-29 19:13:42] tweetlanding-api.INFO: 99 [] {"uid":"a500912"}
+[2018-07-29 19:13:42] tweetlanding-api.INFO: Unable to verify your credentials [] {"uid":"a500912"}
+[2018-07-29 19:13:42] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"a500912"}
+[2018-07-29 19:13:42] tweetlanding-api.INFO: Array [] {"uid":"a500912"}
+[2018-07-29 19:15:08] tweetlanding-api.INFO: get /  [] {"uid":"878e682"}
+[2018-07-29 19:15:08] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"878e682"}
+[2018-07-29 19:15:08] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"878e682"}
+[2018-07-29 19:15:08] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"878e682"}
+[2018-07-29 19:15:08] tweetlanding-api.INFO: {"errors":[{"code":99,"message":"Unable to verify your credentials","label":"authenticity_token_error"}]} [] {"uid":"878e682"}
+[2018-07-29 19:15:08] tweetlanding-api.INFO: 99 [] {"uid":"878e682"}
+[2018-07-29 19:15:08] tweetlanding-api.INFO: Unable to verify your credentials [] {"uid":"878e682"}
+[2018-07-29 19:17:08] tweetlanding-api.INFO: get /  [] {"uid":"74396d3"}
+[2018-07-29 19:17:08] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"74396d3"}
+[2018-07-29 19:17:08] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"74396d3"}
+[2018-07-29 19:17:08] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"74396d3"}
+[2018-07-29 19:17:09] tweetlanding-api.INFO: {"errors":[{"code":99,"message":"Unable to verify your credentials","label":"authenticity_token_error"}]} [] {"uid":"74396d3"}
+[2018-07-29 19:17:09] tweetlanding-api.INFO: 99 [] {"uid":"74396d3"}
+[2018-07-29 19:17:09] tweetlanding-api.INFO: Unable to verify your credentials [] {"uid":"74396d3"}
+[2018-07-29 19:18:00] tweetlanding-api.INFO: get /  [] {"uid":"0e2661f"}
+[2018-07-29 19:18:00] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"0e2661f"}
+[2018-07-29 19:18:00] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"0e2661f"}
+[2018-07-29 19:18:00] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"0e2661f"}
+[2018-07-29 19:18:01] tweetlanding-api.INFO: {"errors":[{"code":99,"message":"Unable to verify your credentials","label":"authenticity_token_error"}]} [] {"uid":"0e2661f"}
+[2018-07-29 19:18:01] tweetlanding-api.INFO: 99 [] {"uid":"0e2661f"}
+[2018-07-29 19:18:01] tweetlanding-api.INFO: Unable to verify your credentials [] {"uid":"0e2661f"}
+[2018-07-29 19:18:07] tweetlanding-api.INFO: get /  [] {"uid":"e57f328"}
+[2018-07-29 19:18:07] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"e57f328"}
+[2018-07-29 19:18:07] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"e57f328"}
+[2018-07-29 19:18:07] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"e57f328"}
+[2018-07-29 19:18:08] tweetlanding-api.INFO: {"errors":[{"code":99,"message":"Unable to verify your credentials","label":"authenticity_token_error"}]} [] {"uid":"e57f328"}
+[2018-07-29 19:18:08] tweetlanding-api.INFO: 99 [] {"uid":"e57f328"}
+[2018-07-29 19:18:08] tweetlanding-api.INFO: Unable to verify your credentials [] {"uid":"e57f328"}
+[2018-07-29 19:18:32] tweetlanding-api.INFO: get /  [] {"uid":"7ba52d7"}
+[2018-07-29 19:18:32] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"7ba52d7"}
+[2018-07-29 19:18:32] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"7ba52d7"}
+[2018-07-29 19:18:32] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"7ba52d7"}
+[2018-07-29 19:18:33] tweetlanding-api.INFO: {"errors":[{"code":170,"message":"Missing required parameter: grant_type","label":"forbidden_missing_parameter"}]} [] {"uid":"7ba52d7"}
+[2018-07-29 19:18:33] tweetlanding-api.INFO: 170 [] {"uid":"7ba52d7"}
+[2018-07-29 19:18:33] tweetlanding-api.INFO: Missing required parameter: grant_type [] {"uid":"7ba52d7"}
+[2018-07-29 19:20:12] tweetlanding-api.INFO: get /  [] {"uid":"05a18ba"}
+[2018-07-29 19:20:12] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"05a18ba"}
+[2018-07-29 19:20:12] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"05a18ba"}
+[2018-07-29 19:20:12] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"05a18ba"}
+[2018-07-29 19:20:13] tweetlanding-api.INFO: {"errors":[{"code":170,"message":"Missing required parameter: grant_type","label":"forbidden_missing_parameter"}]} [] {"uid":"05a18ba"}
+[2018-07-29 19:20:13] tweetlanding-api.INFO: 170 [] {"uid":"05a18ba"}
+[2018-07-29 19:20:13] tweetlanding-api.INFO: Missing required parameter: grant_type [] {"uid":"05a18ba"}
+[2018-07-29 19:20:34] tweetlanding-api.INFO: get /  [] {"uid":"8a15f68"}
+[2018-07-29 19:20:34] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"8a15f68"}
+[2018-07-29 19:20:45] tweetlanding-api.INFO: get /  [] {"uid":"0953ac0"}
+[2018-07-29 19:20:45] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"0953ac0"}
+[2018-07-29 19:20:45] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"0953ac0"}
+[2018-07-29 19:20:45] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"0953ac0"}
+[2018-07-29 19:20:45] tweetlanding-api.INFO: {"token_type":"bearer","access_token":"AAAAAAAAAAAAAAAAAAAAAOsF8AAAAAAAQLqZqRzcjjfOVdBSgwW7bGp1RHI%3Dl0Y55gt0phOSfLYbn3Hwv4nIJD9IrTd230KcHvzwhpGlhinauI"} [] {"uid":"0953ac0"}
+[2018-07-29 19:21:20] tweetlanding-api.INFO: get /  [] {"uid":"f4e8e6f"}
+[2018-07-29 19:21:20] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"f4e8e6f"}
+[2018-07-29 19:21:20] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"f4e8e6f"}
+[2018-07-29 19:21:20] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"f4e8e6f"}
+[2018-07-29 19:21:20] tweetlanding-api.INFO: {"token_type":"bearer","access_token":"AAAAAAAAAAAAAAAAAAAAAOsF8AAAAAAAQLqZqRzcjjfOVdBSgwW7bGp1RHI%3Dl0Y55gt0phOSfLYbn3Hwv4nIJD9IrTd230KcHvzwhpGlhinauI"} [] {"uid":"f4e8e6f"}
+[2018-07-29 19:22:11] tweetlanding-api.INFO: get /  [] {"uid":"e890ccc"}
+[2018-07-29 19:22:11] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"e890ccc"}
+[2018-07-29 19:22:22] tweetlanding-api.INFO: get /  [] {"uid":"8384a5a"}
+[2018-07-29 19:22:22] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerToken(); [] {"uid":"8384a5a"}
+[2018-07-29 19:22:22] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"8384a5a"}
+[2018-07-29 19:22:22] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"8384a5a"}
+[2018-07-29 19:22:23] tweetlanding-api.INFO: {"token_type":"bearer","access_token":"AAAAAAAAAAAAAAAAAAAAAOsF8AAAAAAAQLqZqRzcjjfOVdBSgwW7bGp1RHI%3Dl0Y55gt0phOSfLYbn3Hwv4nIJD9IrTd230KcHvzwhpGlhinauI"} [] {"uid":"8384a5a"}
+[2018-07-29 19:23:01] tweetlanding-api.INFO: get /  [] {"uid":"13cbb5d"}
+[2018-07-29 19:23:01] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"13cbb5d"}
+[2018-07-29 19:23:01] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"13cbb5d"}
+[2018-07-29 19:23:15] tweetlanding-api.INFO: get /  [] {"uid":"a39ca2f"}
+[2018-07-29 19:23:15] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"a39ca2f"}
+[2018-07-29 19:23:15] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"a39ca2f"}
+[2018-07-29 19:24:14] tweetlanding-api.INFO: get /  [] {"uid":"e00c1d3"}
+[2018-07-29 19:24:14] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"e00c1d3"}
+[2018-07-29 19:24:14] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"e00c1d3"}
+[2018-07-29 19:24:14] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"e00c1d3"}
+[2018-07-29 19:24:14] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"e00c1d3"}
+[2018-07-29 19:24:16] tweetlanding-api.INFO: {"token_type":"bearer","access_token":"AAAAAAAAAAAAAAAAAAAAAOsF8AAAAAAAQLqZqRzcjjfOVdBSgwW7bGp1RHI%3Dl0Y55gt0phOSfLYbn3Hwv4nIJD9IrTd230KcHvzwhpGlhinauI"} [] {"uid":"e00c1d3"}
+[2018-07-29 19:24:25] tweetlanding-api.INFO: get /  [] {"uid":"782fd67"}
+[2018-07-29 19:24:25] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"782fd67"}
+[2018-07-29 19:24:25] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"782fd67"}
+[2018-07-29 19:24:25] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"782fd67"}
+[2018-07-29 19:24:25] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"782fd67"}
+[2018-07-29 19:24:26] tweetlanding-api.INFO: {"token_type":"bearer","access_token":"AAAAAAAAAAAAAAAAAAAAAOsF8AAAAAAAQLqZqRzcjjfOVdBSgwW7bGp1RHI%3Dl0Y55gt0phOSfLYbn3Hwv4nIJD9IrTd230KcHvzwhpGlhinauI"} [] {"uid":"782fd67"}
+[2018-07-29 19:27:26] tweetlanding-api.INFO: get /  [] {"uid":"11ab327"}
+[2018-07-29 19:27:26] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"11ab327"}
+[2018-07-29 19:27:26] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"11ab327"}
+[2018-07-29 19:27:26] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"11ab327"}
+[2018-07-29 19:27:26] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"11ab327"}
+[2018-07-29 19:27:26] tweetlanding-api.INFO: {"token_type":"bearer","access_token":"AAAAAAAAAAAAAAAAAAAAAOsF8AAAAAAAQLqZqRzcjjfOVdBSgwW7bGp1RHI%3Dl0Y55gt0phOSfLYbn3Hwv4nIJD9IrTd230KcHvzwhpGlhinauI"} [] {"uid":"11ab327"}
+[2018-07-29 19:28:10] tweetlanding-api.INFO: get /  [] {"uid":"89cda41"}
+[2018-07-29 19:28:10] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"89cda41"}
+[2018-07-29 19:28:10] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"89cda41"}
+[2018-07-29 19:28:10] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"89cda41"}
+[2018-07-29 19:28:10] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"89cda41"}
+[2018-07-29 19:28:11] tweetlanding-api.INFO: {"token_type":"bearer","access_token":"AAAAAAAAAAAAAAAAAAAAAOsF8AAAAAAAQLqZqRzcjjfOVdBSgwW7bGp1RHI%3Dl0Y55gt0phOSfLYbn3Hwv4nIJD9IrTd230KcHvzwhpGlhinauI"} [] {"uid":"89cda41"}
+[2018-07-29 19:28:11] tweetlanding-api.INFO: {"statuses":[{"created_at":"Sun Jul 22 06:49:19 +0000 2018","id":1020923729650618368,"id_str":"1020923729650618368","text":"Odio cuando he tenido un d\u00eda productivo y en la noche aun tengo energ\u00eda como pa 2 d\u00edas m\u00e1s... Esto de ser\u2026 https:\/\/t.co\/QTvsr0wdRW","truncated":true,"entities":{"hashtags":[],"symbols":[],"user_mentions":[],"urls":[{"url":"https:\/\/t.co\/QTvsr0wdRW","expanded_url":"https:\/\/twitter.com\/i\/web\/status\/1020923729650618368","display_url":"twitter.com\/i\/web\/status\/1\u2026","indices":[107,130]}]},"metadata":{"iso_language_code":"es","result_type":"recent"},"source":"\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e","in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"user":{"id":356517200,"id_str":"356517200","name":"\ud83c\uddf5\ud83c\udde6MayJane\ud83c\uddf5\ud83c\udde6","screen_name":"Mayjanee_","location":"Panam\u00e1","description":"Founder, Filmmaker, Director & Producer of @good.rebel\n\nAmo la danza, mas no vivo de ella.\nI believe.","url":null,"entities":{"description":{"urls":[]}},"protected":false,"followers_count":612,"friends_count":585,"listed_count":4,"created_at":"Tue Aug 16 23:53:34 +0000 2011","favourites_count":4184,"utc_offset":null,"time_zone":null,"geo_enabled":false,"verified":false,"statuses_count":45962,"lang":"es","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme10\/bg.gif","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme10\/bg.gif","profile_background_tile":true,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/1008566809384009730\/cDZnVwrn_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/1008566809384009730\/cDZnVwrn_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/356517200\/1508389260","profile_link_color":"91D2FA","profile_sidebar_border_color":"FFFFFF","profile_sidebar_fill_color":"373737","profile_text_color":"FB840E","profile_use_background_image":true,"has_extended_profile":true,"default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null,"translator_type":"regular"},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":0,"favorited":false,"retweeted":false,"lang":"es"}],"search_metadata":{"completed_in":0.027,"max_id":1020923729650618368,"max_id_str":"1020923729650618368","query":"%23hiperactivo","refresh_url":"?since_id=1020923729650618368&q=%23hiperactivo&include_entities=1","count":15,"since_id":0,"since_id_str":"0"}} [] {"uid":"89cda41"}
+[2018-07-29 19:28:28] tweetlanding-api.INFO: get /  [] {"uid":"2b6b696"}
+[2018-07-29 19:28:28] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"2b6b696"}
+[2018-07-29 19:28:28] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"2b6b696"}
+[2018-07-29 19:28:28] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"2b6b696"}
+[2018-07-29 19:28:28] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"2b6b696"}
+[2018-07-29 19:28:28] tweetlanding-api.INFO: {"token_type":"bearer","access_token":"AAAAAAAAAAAAAAAAAAAAAOsF8AAAAAAAQLqZqRzcjjfOVdBSgwW7bGp1RHI%3Dl0Y55gt0phOSfLYbn3Hwv4nIJD9IrTd230KcHvzwhpGlhinauI"} [] {"uid":"2b6b696"}
+[2018-07-29 19:28:29] tweetlanding-api.INFO: {"statuses":[{"created_at":"Sun Jul 22 06:49:19 +0000 2018","id":1020923729650618368,"id_str":"1020923729650618368","text":"Odio cuando he tenido un d\u00eda productivo y en la noche aun tengo energ\u00eda como pa 2 d\u00edas m\u00e1s... Esto de ser\u2026 https:\/\/t.co\/QTvsr0wdRW","truncated":true,"entities":{"hashtags":[],"symbols":[],"user_mentions":[],"urls":[{"url":"https:\/\/t.co\/QTvsr0wdRW","expanded_url":"https:\/\/twitter.com\/i\/web\/status\/1020923729650618368","display_url":"twitter.com\/i\/web\/status\/1\u2026","indices":[107,130]}]},"metadata":{"iso_language_code":"es","result_type":"recent"},"source":"\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e","in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"user":{"id":356517200,"id_str":"356517200","name":"\ud83c\uddf5\ud83c\udde6MayJane\ud83c\uddf5\ud83c\udde6","screen_name":"Mayjanee_","location":"Panam\u00e1","description":"Founder, Filmmaker, Director & Producer of @good.rebel\n\nAmo la danza, mas no vivo de ella.\nI believe.","url":null,"entities":{"description":{"urls":[]}},"protected":false,"followers_count":612,"friends_count":585,"listed_count":4,"created_at":"Tue Aug 16 23:53:34 +0000 2011","favourites_count":4184,"utc_offset":null,"time_zone":null,"geo_enabled":false,"verified":false,"statuses_count":45962,"lang":"es","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme10\/bg.gif","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme10\/bg.gif","profile_background_tile":true,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/1008566809384009730\/cDZnVwrn_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/1008566809384009730\/cDZnVwrn_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/356517200\/1508389260","profile_link_color":"91D2FA","profile_sidebar_border_color":"FFFFFF","profile_sidebar_fill_color":"373737","profile_text_color":"FB840E","profile_use_background_image":true,"has_extended_profile":true,"default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null,"translator_type":"regular"},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":0,"favorited":false,"retweeted":false,"lang":"es"}],"search_metadata":{"completed_in":0.024,"max_id":1020923729650618368,"max_id_str":"1020923729650618368","query":"%23hiperactivo","refresh_url":"?since_id=1020923729650618368&q=%23hiperactivo&include_entities=1","count":15,"since_id":0,"since_id_str":"0"}} [] {"uid":"2b6b696"}
+[2018-07-29 19:31:55] tweetlanding-api.INFO: get /  [] {"uid":"e0e05b9"}
+[2018-07-29 19:31:55] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"e0e05b9"}
+[2018-07-29 19:31:55] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"e0e05b9"}
+[2018-07-29 19:31:55] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"e0e05b9"}
+[2018-07-29 19:31:55] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"e0e05b9"}
+[2018-07-29 19:31:56] tweetlanding-api.INFO: {"token_type":"bearer","access_token":"AAAAAAAAAAAAAAAAAAAAAOsF8AAAAAAAQLqZqRzcjjfOVdBSgwW7bGp1RHI%3Dl0Y55gt0phOSfLYbn3Hwv4nIJD9IrTd230KcHvzwhpGlhinauI"} [] {"uid":"e0e05b9"}
+[2018-07-29 19:31:57] tweetlanding-api.INFO: {"statuses":[{"created_at":"Sun Jul 22 06:49:19 +0000 2018","id":1020923729650618368,"id_str":"1020923729650618368","text":"Odio cuando he tenido un d\u00eda productivo y en la noche aun tengo energ\u00eda como pa 2 d\u00edas m\u00e1s... Esto de ser\u2026 https:\/\/t.co\/QTvsr0wdRW","truncated":true,"entities":{"hashtags":[],"symbols":[],"user_mentions":[],"urls":[{"url":"https:\/\/t.co\/QTvsr0wdRW","expanded_url":"https:\/\/twitter.com\/i\/web\/status\/1020923729650618368","display_url":"twitter.com\/i\/web\/status\/1\u2026","indices":[107,130]}]},"metadata":{"iso_language_code":"es","result_type":"recent"},"source":"\u003ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003eTwitter for Android\u003c\/a\u003e","in_reply_to_status_id":null,"in_reply_to_status_id_str":null,"in_reply_to_user_id":null,"in_reply_to_user_id_str":null,"in_reply_to_screen_name":null,"user":{"id":356517200,"id_str":"356517200","name":"\ud83c\uddf5\ud83c\udde6MayJane\ud83c\uddf5\ud83c\udde6","screen_name":"Mayjanee_","location":"Panam\u00e1","description":"Founder, Filmmaker, Director & Producer of @good.rebel\n\nAmo la danza, mas no vivo de ella.\nI believe.","url":null,"entities":{"description":{"urls":[]}},"protected":false,"followers_count":612,"friends_count":585,"listed_count":4,"created_at":"Tue Aug 16 23:53:34 +0000 2011","favourites_count":4184,"utc_offset":null,"time_zone":null,"geo_enabled":false,"verified":false,"statuses_count":45962,"lang":"es","contributors_enabled":false,"is_translator":false,"is_translation_enabled":false,"profile_background_color":"000000","profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme10\/bg.gif","profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme10\/bg.gif","profile_background_tile":true,"profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/1008566809384009730\/cDZnVwrn_normal.jpg","profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/1008566809384009730\/cDZnVwrn_normal.jpg","profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/356517200\/1508389260","profile_link_color":"91D2FA","profile_sidebar_border_color":"FFFFFF","profile_sidebar_fill_color":"373737","profile_text_color":"FB840E","profile_use_background_image":true,"has_extended_profile":true,"default_profile":false,"default_profile_image":false,"following":null,"follow_request_sent":null,"notifications":null,"translator_type":"regular"},"geo":null,"coordinates":null,"place":null,"contributors":null,"is_quote_status":false,"retweet_count":0,"favorite_count":0,"favorited":false,"retweeted":false,"lang":"es"}],"search_metadata":{"completed_in":0.115,"max_id":1020923729650618368,"max_id_str":"1020923729650618368","query":"%23hiperactivo","refresh_url":"?since_id=1020923729650618368&q=%23hiperactivo&include_entities=1","count":15,"since_id":0,"since_id_str":"0"}} [] {"uid":"e0e05b9"}
+[2018-07-29 19:32:44] tweetlanding-api.INFO: get /  [] {"uid":"17e8128"}
+[2018-07-29 19:32:44] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"17e8128"}
+[2018-07-29 19:32:44] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"17e8128"}
+[2018-07-29 19:32:44] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"17e8128"}
+[2018-07-29 19:32:44] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"17e8128"}
+[2018-07-29 19:32:45] tweetlanding-api.INFO: {"token_type":"bearer","access_token":"AAAAAAAAAAAAAAAAAAAAAOsF8AAAAAAAQLqZqRzcjjfOVdBSgwW7bGp1RHI%3Dl0Y55gt0phOSfLYbn3Hwv4nIJD9IrTd230KcHvzwhpGlhinauI"} [] {"uid":"17e8128"}
+[2018-07-29 19:33:24] tweetlanding-api.INFO: get /  [] {"uid":"07f5c19"}
+[2018-07-29 19:33:24] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"07f5c19"}
+[2018-07-29 19:33:24] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"07f5c19"}
+[2018-07-29 19:33:24] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"07f5c19"}
+[2018-07-29 19:33:24] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"07f5c19"}
+[2018-07-29 19:33:24] tweetlanding-api.INFO: {"token_type":"bearer","access_token":"AAAAAAAAAAAAAAAAAAAAAOsF8AAAAAAAQLqZqRzcjjfOVdBSgwW7bGp1RHI%3Dl0Y55gt0phOSfLYbn3Hwv4nIJD9IrTd230KcHvzwhpGlhinauI"} [] {"uid":"07f5c19"}
+[2018-07-29 19:33:55] tweetlanding-api.INFO: get /  [] {"uid":"c56c1a5"}
+[2018-07-29 19:33:55] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"c56c1a5"}
+[2018-07-29 19:33:55] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"c56c1a5"}
+[2018-07-29 19:33:55] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"c56c1a5"}
+[2018-07-29 19:33:55] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"c56c1a5"}
+[2018-07-29 19:33:56] tweetlanding-api.INFO: {"token_type":"bearer","access_token":"AAAAAAAAAAAAAAAAAAAAAOsF8AAAAAAAQLqZqRzcjjfOVdBSgwW7bGp1RHI%3Dl0Y55gt0phOSfLYbn3Hwv4nIJD9IrTd230KcHvzwhpGlhinauI"} [] {"uid":"c56c1a5"}
+[2018-07-29 19:33:57] tweetlanding-api.INFO: Array [] {"uid":"c56c1a5"}
+[2018-07-29 19:34:12] tweetlanding-api.INFO: get /  [] {"uid":"6d70bd5"}
+[2018-07-29 19:34:12] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"6d70bd5"}
+[2018-07-29 19:34:12] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"6d70bd5"}
+[2018-07-29 19:34:12] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"6d70bd5"}
+[2018-07-29 19:34:12] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"6d70bd5"}
+[2018-07-29 19:34:13] tweetlanding-api.INFO: {"token_type":"bearer","access_token":"AAAAAAAAAAAAAAAAAAAAAOsF8AAAAAAAQLqZqRzcjjfOVdBSgwW7bGp1RHI%3Dl0Y55gt0phOSfLYbn3Hwv4nIJD9IrTd230KcHvzwhpGlhinauI"} [] {"uid":"6d70bd5"}
+[2018-07-29 19:34:13] tweetlanding-api.INFO: {"id":1020923729650618368,"usuario":"\ud83c\uddf5\ud83c\udde6MayJane\ud83c\uddf5\ud83c\udde6","mensaje":"Odio cuando he tenido un d\u00eda productivo y en la noche aun tengo energ\u00eda como pa 2 d\u00edas m\u00e1s... Esto de ser\u2026 https:\/\/t.co\/QTvsr0wdRW"} [] {"uid":"6d70bd5"}
+[2018-07-29 19:34:33] tweetlanding-api.INFO: get /  [] {"uid":"52a665d"}
+[2018-07-29 19:34:33] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"52a665d"}
+[2018-07-29 19:34:33] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"52a665d"}
+[2018-07-29 19:34:33] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"52a665d"}
+[2018-07-29 19:34:33] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"52a665d"}
+[2018-07-29 19:34:33] tweetlanding-api.INFO: {"token_type":"bearer","access_token":"AAAAAAAAAAAAAAAAAAAAAOsF8AAAAAAAQLqZqRzcjjfOVdBSgwW7bGp1RHI%3Dl0Y55gt0phOSfLYbn3Hwv4nIJD9IrTd230KcHvzwhpGlhinauI"} [] {"uid":"52a665d"}
+[2018-07-29 19:34:34] tweetlanding-api.INFO: {"id":1020923729650618368,"usuario":"\ud83c\uddf5\ud83c\udde6MayJane\ud83c\uddf5\ud83c\udde6","mensaje":"Odio cuando he tenido un d\u00eda productivo y en la noche aun tengo energ\u00eda como pa 2 d\u00edas m\u00e1s... Esto de ser\u2026 https:\/\/t.co\/QTvsr0wdRW"} [] {"uid":"52a665d"}
+[2018-07-29 19:36:19] tweetlanding-api.INFO: get /  [] {"uid":"a8e7730"}
+[2018-07-29 19:36:19] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"a8e7730"}
+[2018-07-29 19:36:19] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"a8e7730"}
+[2018-07-29 19:36:19] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"a8e7730"}
+[2018-07-29 19:36:19] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"a8e7730"}
+[2018-07-29 19:36:20] tweetlanding-api.INFO: {"token_type":"bearer","access_token":"AAAAAAAAAAAAAAAAAAAAAOsF8AAAAAAAQLqZqRzcjjfOVdBSgwW7bGp1RHI%3Dl0Y55gt0phOSfLYbn3Hwv4nIJD9IrTd230KcHvzwhpGlhinauI"} [] {"uid":"a8e7730"}
+[2018-07-29 19:37:27] tweetlanding-api.INFO: get /  [] {"uid":"0aa0b05"}
+[2018-07-29 19:37:27] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"0aa0b05"}
+[2018-07-29 19:37:27] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"0aa0b05"}
+[2018-07-29 19:37:27] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"0aa0b05"}
+[2018-07-29 19:37:27] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"0aa0b05"}
+[2018-07-29 19:37:28] tweetlanding-api.INFO: {"token_type":"bearer","access_token":"AAAAAAAAAAAAAAAAAAAAAOsF8AAAAAAAQLqZqRzcjjfOVdBSgwW7bGp1RHI%3Dl0Y55gt0phOSfLYbn3Hwv4nIJD9IrTd230KcHvzwhpGlhinauI"} [] {"uid":"0aa0b05"}
+[2018-07-29 19:37:28] tweetlanding-api.INFO: 1 [] {"uid":"0aa0b05"}
+[2018-07-29 19:38:13] tweetlanding-api.INFO: get /  [] {"uid":"1201835"}
+[2018-07-29 19:38:13] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"1201835"}
+[2018-07-29 19:38:13] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"1201835"}
+[2018-07-29 19:38:13] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"1201835"}
+[2018-07-29 19:38:13] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"1201835"}
+[2018-07-29 19:38:13] tweetlanding-api.INFO: {"token_type":"bearer","access_token":"AAAAAAAAAAAAAAAAAAAAAOsF8AAAAAAAQLqZqRzcjjfOVdBSgwW7bGp1RHI%3Dl0Y55gt0phOSfLYbn3Hwv4nIJD9IrTd230KcHvzwhpGlhinauI"} [] {"uid":"1201835"}
+[2018-07-29 19:38:14] tweetlanding-api.INFO: Could not resolve host: https%3A%2F%2Fapi.twitter.com%2F1.1%2Fsearch%2Ftweets.json%3Fq%3D%23hiperactivo [] {"uid":"1201835"}
+[2018-07-29 19:38:39] tweetlanding-api.INFO: get /  [] {"uid":"34a61b7"}
+[2018-07-29 19:38:39] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"34a61b7"}
+[2018-07-29 19:38:39] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"34a61b7"}
+[2018-07-29 19:38:39] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"34a61b7"}
+[2018-07-29 19:38:39] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"34a61b7"}
+[2018-07-29 19:38:39] tweetlanding-api.INFO: {"token_type":"bearer","access_token":"AAAAAAAAAAAAAAAAAAAAAOsF8AAAAAAAQLqZqRzcjjfOVdBSgwW7bGp1RHI%3Dl0Y55gt0phOSfLYbn3Hwv4nIJD9IrTd230KcHvzwhpGlhinauI"} [] {"uid":"34a61b7"}
+[2018-07-29 19:38:40] tweetlanding-api.INFO: 15 [] {"uid":"34a61b7"}
+[2018-07-29 19:52:26] tweetlanding-api.INFO: get /  [] {"uid":"e8f888d"}
+[2018-07-29 19:52:26] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"e8f888d"}
+[2018-07-29 19:52:26] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"e8f888d"}
+[2018-07-29 19:52:26] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"e8f888d"}
+[2018-07-29 19:52:26] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"e8f888d"}
+[2018-07-29 19:52:28] tweetlanding-api.INFO: {"token_type":"bearer","access_token":"AAAAAAAAAAAAAAAAAAAAAOsF8AAAAAAAQLqZqRzcjjfOVdBSgwW7bGp1RHI%3Dl0Y55gt0phOSfLYbn3Hwv4nIJD9IrTd230KcHvzwhpGlhinauI"} [] {"uid":"e8f888d"}
+[2018-07-29 19:52:28] tweetlanding-api.INFO: 0 [] {"uid":"e8f888d"}
+[2018-07-29 19:53:26] tweetlanding-api.INFO: get /  [] {"uid":"87ecf73"}
+[2018-07-29 19:53:26] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"87ecf73"}
+[2018-07-29 19:53:26] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"87ecf73"}
+[2018-07-29 19:53:26] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:getTweets(); [] {"uid":"87ecf73"}
+[2018-07-29 19:53:27] tweetlanding-api.INFO: 15 [] {"uid":"87ecf73"}
+[2018-07-29 19:54:06] tweetlanding-api.INFO: get /  [] {"uid":"d1d4f31"}
+[2018-07-29 19:54:06] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"d1d4f31"}
+[2018-07-29 19:54:06] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"d1d4f31"}
+[2018-07-29 19:54:06] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:getTweets(); [] {"uid":"d1d4f31"}
+[2018-07-29 19:54:07] tweetlanding-api.INFO: 15 [] {"uid":"d1d4f31"}
+[2018-07-29 20:22:55] tweetlanding-api.INFO: get /  [] {"uid":"3b2c09f"}
+[2018-07-29 20:22:55] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"3b2c09f"}
+[2018-07-29 20:22:55] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"3b2c09f"}
+[2018-07-29 20:22:55] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerToken(); [] {"uid":"3b2c09f"}
+[2018-07-29 20:22:55] tweetlanding-api.INFO: https://api.twitter.com/oauth2/token [] {"uid":"3b2c09f"}
+[2018-07-29 20:22:56] tweetlanding-api.INFO: {"token_type":"bearer","access_token":"AAAAAAAAAAAAAAAAAAAAAOsF8AAAAAAAQLqZqRzcjjfOVdBSgwW7bGp1RHI%3Dl0Y55gt0phOSfLYbn3Hwv4nIJD9IrTd230KcHvzwhpGlhinauI"} [] {"uid":"3b2c09f"}
+[2018-07-29 20:22:56] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:getTweets(); [] {"uid":"3b2c09f"}
+[2018-07-29 20:22:57] tweetlanding-api.INFO: 15 [] {"uid":"3b2c09f"}
+[2018-07-29 20:26:45] tweetlanding-api.INFO: get /  [] {"uid":"c75fec3"}
+[2018-07-29 20:26:45] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"c75fec3"}
+[2018-07-29 20:26:45] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"c75fec3"}
+[2018-07-29 20:26:45] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:getTweets(); [] {"uid":"c75fec3"}
+[2018-07-29 20:26:46] tweetlanding-api.INFO: 15 [] {"uid":"c75fec3"}
+[2018-07-29 20:26:56] tweetlanding-api.INFO: get /  [] {"uid":"4526a5c"}
+[2018-07-29 20:26:56] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"4526a5c"}
+[2018-07-29 20:26:56] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"4526a5c"}
+[2018-07-29 20:26:56] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:getTweets(); [] {"uid":"4526a5c"}
+[2018-07-29 20:26:57] tweetlanding-api.INFO: 15 [] {"uid":"4526a5c"}
+[2018-07-29 20:27:39] tweetlanding-api.INFO: get /  [] {"uid":"1aaee6b"}
+[2018-07-29 20:27:39] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"1aaee6b"}
+[2018-07-29 20:27:39] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"1aaee6b"}
+[2018-07-29 20:27:39] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:getTweets(); [] {"uid":"1aaee6b"}
+[2018-07-29 20:27:40] tweetlanding-api.INFO: 15 [] {"uid":"1aaee6b"}
+[2018-07-29 20:28:54] tweetlanding-api.INFO: get /  [] {"uid":"bc8ad1e"}
+[2018-07-29 20:28:54] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"bc8ad1e"}
+[2018-07-29 20:28:54] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"bc8ad1e"}
+[2018-07-29 20:28:54] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:getTweets(); [] {"uid":"bc8ad1e"}
+[2018-07-29 20:28:55] tweetlanding-api.INFO: 15 [] {"uid":"bc8ad1e"}
+[2018-07-29 20:29:00] tweetlanding-api.INFO: get /  [] {"uid":"0558b37"}
+[2018-07-29 20:29:00] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"0558b37"}
+[2018-07-29 20:29:00] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"0558b37"}
+[2018-07-29 20:29:00] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:getTweets(); [] {"uid":"0558b37"}
+[2018-07-29 20:29:01] tweetlanding-api.INFO: 15 [] {"uid":"0558b37"}
+[2018-07-29 20:30:30] tweetlanding-api.INFO: add /  [] {"uid":"dd20cf7"}
+[2018-07-29 20:30:56] tweetlanding-api.INFO: add /  [] {"uid":"db1339c"}
+[2018-07-29 20:32:36] tweetlanding-api.INFO: add /  [] {"uid":"33b205e"}
+[2018-07-29 20:32:36] tweetlanding-api.INFO: http://0.0.0.0:42000 [] {"uid":"33b205e"}
+[2018-07-29 20:32:36] tweetlanding-api.INFO: get /  [] {"uid":"33b205e"}
+[2018-07-29 20:32:36] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"33b205e"}
+[2018-07-29 20:32:36] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"33b205e"}
+[2018-07-29 20:32:36] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:getTweets(); [] {"uid":"33b205e"}
+[2018-07-29 20:32:38] tweetlanding-api.INFO: 15 [] {"uid":"33b205e"}
+[2018-07-29 20:32:47] tweetlanding-api.INFO: add /  [] {"uid":"4b15bc9"}
+[2018-07-29 20:32:47] tweetlanding-api.INFO: http://0.0.0.0:42000 [] {"uid":"4b15bc9"}
+[2018-07-29 20:32:47] tweetlanding-api.INFO: get /  [] {"uid":"4b15bc9"}
+[2018-07-29 20:32:47] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"4b15bc9"}
+[2018-07-29 20:32:47] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"4b15bc9"}
+[2018-07-29 20:32:47] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:getTweets(); [] {"uid":"4b15bc9"}
+[2018-07-29 20:32:48] tweetlanding-api.INFO: 15 [] {"uid":"4b15bc9"}
+[2018-07-29 20:35:16] tweetlanding-api.INFO: add /  [] {"uid":"def9c58"}
+[2018-07-29 20:35:16] tweetlanding-api.INFO: http://0.0.0.0:42000 [] {"uid":"def9c58"}
+[2018-07-29 20:35:16] tweetlanding-api.INFO: get /tweets  [] {"uid":"def9c58"}
+[2018-07-29 20:35:16] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"def9c58"}
+[2018-07-29 20:35:16] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"def9c58"}
+[2018-07-29 20:35:16] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:getTweets(); [] {"uid":"def9c58"}
+[2018-07-29 20:35:17] tweetlanding-api.INFO: 15 [] {"uid":"def9c58"}
+[2018-07-29 20:35:22] tweetlanding-api.INFO: add /  [] {"uid":"b898d8a"}
+[2018-07-29 20:35:22] tweetlanding-api.INFO: http://0.0.0.0:42000 [] {"uid":"b898d8a"}
+[2018-07-29 20:35:22] tweetlanding-api.INFO: get /tweets  [] {"uid":"b898d8a"}
+[2018-07-29 20:35:22] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"b898d8a"}
+[2018-07-29 20:35:22] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"b898d8a"}
+[2018-07-29 20:35:22] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:getTweets(); [] {"uid":"b898d8a"}
+[2018-07-29 20:35:23] tweetlanding-api.INFO: 15 [] {"uid":"b898d8a"}
+[2018-07-29 20:35:37] tweetlanding-api.INFO: add /  [] {"uid":"c41be0f"}
+[2018-07-29 20:35:37] tweetlanding-api.INFO: http://0.0.0.0:4200 [] {"uid":"c41be0f"}
+[2018-07-29 20:35:37] tweetlanding-api.INFO: get /tweets  [] {"uid":"c41be0f"}
+[2018-07-29 20:35:37] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"c41be0f"}
+[2018-07-29 20:35:37] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"c41be0f"}
+[2018-07-29 20:35:37] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:getTweets(); [] {"uid":"c41be0f"}
+[2018-07-29 20:35:38] tweetlanding-api.INFO: 15 [] {"uid":"c41be0f"}
+[2018-07-29 20:39:14] tweetlanding-api.INFO: add /  [] {"uid":"476384b"}
+[2018-07-29 20:39:14] tweetlanding-api.INFO: http://0.0.0.0:4200 [] {"uid":"476384b"}
+[2018-07-29 20:39:14] tweetlanding-api.INFO: get /tweets  [] {"uid":"476384b"}
+[2018-07-29 20:39:14] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"476384b"}
+[2018-07-29 20:39:14] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"476384b"}
+[2018-07-29 20:39:14] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:getTweets(); [] {"uid":"476384b"}
+[2018-07-29 20:39:16] tweetlanding-api.INFO: 15 [] {"uid":"476384b"}
+[2018-07-29 20:39:20] tweetlanding-api.INFO: add /  [] {"uid":"fdddec7"}
+[2018-07-29 20:39:20] tweetlanding-api.INFO: http://0.0.0.0:4200 [] {"uid":"fdddec7"}
+[2018-07-29 20:39:20] tweetlanding-api.INFO: get /tweets  [] {"uid":"fdddec7"}
+[2018-07-29 20:39:20] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"fdddec7"}
+[2018-07-29 20:39:20] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"fdddec7"}
+[2018-07-29 20:39:20] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:getTweets(); [] {"uid":"fdddec7"}
+[2018-07-29 20:39:21] tweetlanding-api.INFO: 15 [] {"uid":"fdddec7"}
+[2018-07-29 20:39:46] tweetlanding-api.INFO: add /  [] {"uid":"eaa70c2"}
+[2018-07-29 20:39:46] tweetlanding-api.INFO: http://0.0.0.0:4200 [] {"uid":"eaa70c2"}
+[2018-07-29 20:39:46] tweetlanding-api.INFO: get /tweets  [] {"uid":"eaa70c2"}
+[2018-07-29 20:39:46] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"eaa70c2"}
+[2018-07-29 20:39:46] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"eaa70c2"}
+[2018-07-29 20:39:46] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:getTweets(); [] {"uid":"eaa70c2"}
+[2018-07-29 20:39:46] tweetlanding-api.INFO: 15 [] {"uid":"eaa70c2"}
+[2018-07-29 20:39:59] tweetlanding-api.INFO: add /  [] {"uid":"230c734"}
+[2018-07-29 20:39:59] tweetlanding-api.INFO: http://localhost:4200 [] {"uid":"230c734"}
+[2018-07-29 20:39:59] tweetlanding-api.INFO: get /tweets  [] {"uid":"230c734"}
+[2018-07-29 20:39:59] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"230c734"}
+[2018-07-29 20:39:59] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"230c734"}
+[2018-07-29 20:39:59] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:getTweets(); [] {"uid":"230c734"}
+[2018-07-29 20:39:59] tweetlanding-api.INFO: 15 [] {"uid":"230c734"}
+[2018-07-29 20:40:26] tweetlanding-api.INFO: add /  [] {"uid":"ec47356"}
+[2018-07-29 20:40:26] tweetlanding-api.INFO: http://localhost:4200 [] {"uid":"ec47356"}
+[2018-07-29 20:40:26] tweetlanding-api.INFO: get /tweets  [] {"uid":"ec47356"}
+[2018-07-29 20:40:26] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"ec47356"}
+[2018-07-29 20:40:26] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"ec47356"}
+[2018-07-29 20:40:26] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:getTweets(); [] {"uid":"ec47356"}
+[2018-07-29 20:40:27] tweetlanding-api.INFO: 15 [] {"uid":"ec47356"}
+[2018-07-29 20:41:28] tweetlanding-api.INFO: add /  [] {"uid":"ad49743"}
+[2018-07-29 20:41:28] tweetlanding-api.INFO: http://localhost:4200 [] {"uid":"ad49743"}
+[2018-07-29 20:41:28] tweetlanding-api.INFO: get /tweets  [] {"uid":"ad49743"}
+[2018-07-29 20:41:28] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"ad49743"}
+[2018-07-29 20:41:28] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"ad49743"}
+[2018-07-29 20:41:28] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:getTweets(); [] {"uid":"ad49743"}
+[2018-07-29 20:41:29] tweetlanding-api.INFO: 15 [] {"uid":"ad49743"}
+[2018-07-29 20:41:38] tweetlanding-api.INFO: add /  [] {"uid":"88bd670"}
+[2018-07-29 20:41:38] tweetlanding-api.INFO: http://localhost:4200 [] {"uid":"88bd670"}
+[2018-07-29 20:41:38] tweetlanding-api.INFO: get /tweets  [] {"uid":"88bd670"}
+[2018-07-29 20:41:38] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"88bd670"}
+[2018-07-29 20:41:38] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"88bd670"}
+[2018-07-29 20:41:38] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:getTweets(); [] {"uid":"88bd670"}
+[2018-07-29 20:41:39] tweetlanding-api.INFO: 15 [] {"uid":"88bd670"}
+[2018-07-29 20:41:50] tweetlanding-api.INFO: add /  [] {"uid":"3261efd"}
+[2018-07-29 20:41:50] tweetlanding-api.INFO: http://localhost:4200 [] {"uid":"3261efd"}
+[2018-07-29 20:41:50] tweetlanding-api.INFO: get /tweets  [] {"uid":"3261efd"}
+[2018-07-29 20:41:50] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"3261efd"}
+[2018-07-29 20:41:50] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"3261efd"}
+[2018-07-29 20:41:50] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:getTweets(); [] {"uid":"3261efd"}
+[2018-07-29 20:41:50] tweetlanding-api.INFO: 15 [] {"uid":"3261efd"}
+[2018-07-29 20:42:16] tweetlanding-api.INFO: add /  [] {"uid":"8fab929"}
+[2018-07-29 20:42:16] tweetlanding-api.INFO: http://localhost:4200 [] {"uid":"8fab929"}
+[2018-07-29 20:42:16] tweetlanding-api.INFO: get /tweets  [] {"uid":"8fab929"}
+[2018-07-29 20:42:16] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"8fab929"}
+[2018-07-29 20:42:16] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"8fab929"}
+[2018-07-29 20:42:16] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:getTweets(); [] {"uid":"8fab929"}
+[2018-07-29 20:42:17] tweetlanding-api.INFO: 15 [] {"uid":"8fab929"}
+[2018-07-29 20:42:30] tweetlanding-api.INFO: add /  [] {"uid":"afacdf5"}
+[2018-07-29 20:42:30] tweetlanding-api.INFO: http://localhost:4200 [] {"uid":"afacdf5"}
+[2018-07-29 20:42:30] tweetlanding-api.INFO: get /tweets  [] {"uid":"afacdf5"}
+[2018-07-29 20:42:30] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"afacdf5"}
+[2018-07-29 20:42:30] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"afacdf5"}
+[2018-07-29 20:42:30] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:getTweets(); [] {"uid":"afacdf5"}
+[2018-07-29 20:42:31] tweetlanding-api.INFO: 15 [] {"uid":"afacdf5"}
+[2018-07-29 20:42:35] tweetlanding-api.INFO: add /  [] {"uid":"1ca0d45"}
+[2018-07-29 20:42:35] tweetlanding-api.INFO: http://localhost:4200 [] {"uid":"1ca0d45"}
+[2018-07-29 20:42:35] tweetlanding-api.INFO: get /tweets  [] {"uid":"1ca0d45"}
+[2018-07-29 20:42:35] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"1ca0d45"}
+[2018-07-29 20:42:35] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"1ca0d45"}
+[2018-07-29 20:42:35] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:getTweets(); [] {"uid":"1ca0d45"}
+[2018-07-29 20:42:36] tweetlanding-api.INFO: 15 [] {"uid":"1ca0d45"}
+[2018-07-29 20:42:48] tweetlanding-api.INFO: add /  [] {"uid":"08416ad"}
+[2018-07-29 20:42:48] tweetlanding-api.INFO: http://localhost:4200 [] {"uid":"08416ad"}
+[2018-07-29 20:42:48] tweetlanding-api.INFO: get /tweets  [] {"uid":"08416ad"}
+[2018-07-29 20:42:48] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"08416ad"}
+[2018-07-29 20:42:48] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"08416ad"}
+[2018-07-29 20:42:48] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:getTweets(); [] {"uid":"08416ad"}
+[2018-07-29 20:42:49] tweetlanding-api.INFO: 15 [] {"uid":"08416ad"}
+[2018-07-30 00:18:32] tweetlanding-api.INFO: add /  [] {"uid":"649c4a7"}
+[2018-07-30 00:18:32] tweetlanding-api.INFO: http://localhost:4200 [] {"uid":"649c4a7"}
+[2018-07-30 00:18:32] tweetlanding-api.INFO: get /tweets  [] {"uid":"649c4a7"}
+[2018-07-30 00:18:32] tweetlanding-api.INFO: HiperTweetAPI\Controllers\TweetController:obtenerTweets(); [] {"uid":"649c4a7"}
+[2018-07-30 00:18:32] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:obtenerTweets(); [] {"uid":"649c4a7"}
+[2018-07-30 00:18:32] tweetlanding-api.INFO: HiperTweetAPI\DAOS\TweetDAO:getTweets(); [] {"uid":"649c4a7"}
+[2018-07-30 00:18:33] tweetlanding-api.INFO: 15 [] {"uid":"649c4a7"}
