@@ -25,8 +25,8 @@ class TweetDAO
             "grant_type"  => "client_credentials"
         );
 
-        $userName = "nll2OYLrB6SazewBrkByEay0x";
-        $password = "81KwpOM2Pc6jy7u7QXoy4mgcwNIDuuPWmRG6Xk1OrE8eGOyvrq";
+        $userName = "";
+        $password = "";
         $urlToken ="https://api.twitter.com/oauth2/token";
         $this->logger->info($urlToken);
         //Llamar a otro servidor

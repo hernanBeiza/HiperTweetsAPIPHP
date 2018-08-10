@@ -1,31 +1,21 @@
-# API Rest con SlimFrameWork + Composer + PHPUNIT
+# HiperTweetsAPI + PHP + SlimFramework +  Composer
 
-API Rest con FlightPHP + Composer + PHPUNIT
+Conexión con la API de Twitter usando PHP, SlimFramework y Composer
 
 ## Inicio
 
-Instalar dependencias usando composer
+Instalar dependencias usando `composer`
 
 ``composer install``
-
-## Desarrollo
-Se ha incluído un script para ejecutar un servidor web usando composer
-
-``composer run-script start``
-
-## Pruebas Unitarias
-
-Están a través de phpunit
-Para hacerlas funcionar ejecutar
-
-``composer run-script test test/TestIndex.php``
-
 
 ## Dependencias
 
 Las dependencias como son usadas con composer, se pueden ver en composer.json
 
-- php 5.3 o superior
+- Composer
 - SlimFramework
-- monolog
-- phpunit
+- API Key de Twitter
+
+## Futuro
+
+Reemplazar llamadas CURL a la API de Twitter y usar otro método
